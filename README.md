@@ -51,7 +51,7 @@ This application is designed to detect finger joints in real-time using a webcam
    <summary>More Information</summary>
    <h3 align="center">Test 1</h3>
    <video width="1280" height="720" controls>
-      <source src="DATA_FOR_TEST\Tested Hand sample video\1_output_video.mp4" type="video/mp4">
+      <source src="https://github.com/Mr0Miner/Finger-Joint-Detection-Application/blob/a9ec5518c113cef19a9a1fdad50cd6ce69ec8853/DATA_FOR_TEST/Tested%20Hand%20sample%20video/1_output_video.mp4" type="video/mp4">
       Your browser does not support the video tag.
    </video>
 
@@ -59,7 +59,7 @@ This application is designed to detect finger joints in real-time using a webcam
 
    <h3 align="center">Test 2</h3>
    <video width="1280" height="720" controls>
-      <source src="DATA_FOR_TEST\Tested Hand sample video\2_output_video.mp4" type="video/mp4">
+      <source src="https://github.com/Mr0Miner/Finger-Joint-Detection-Application/blob/a9ec5518c113cef19a9a1fdad50cd6ce69ec8853/DATA_FOR_TEST/Tested%20Hand%20sample%20video/2_output_video.mp4" type="video/mp4">
       Your browser does not support the video tag.
    </video>
 
@@ -67,7 +67,7 @@ This application is designed to detect finger joints in real-time using a webcam
 
    <h3 align="center">Test 3</h3>
    <video width="1280" height="720" controls>
-      <source src="DATA_FOR_TEST\Tested Hand sample video\3_output_video.mp4" type="video/mp4">
+      <source src="https://github.com/Mr0Miner/Finger-Joint-Detection-Application/blob/a9ec5518c113cef19a9a1fdad50cd6ce69ec8853/DATA_FOR_TEST/Tested%20Hand%20sample%20video/3_output_video.mp4" type="video/mp4">
       Your browser does not support the video tag.
    </video>
 </details>
@@ -130,7 +130,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
    <summary>اطلاعات بیشتر</summary>
    <h3 align="center">تست 1</h3>
    <video width="1280" height="720" controls>
-      <source src="DATA_FOR_TEST\Tested Hand sample video\1_output_video.mp4" type="video/mp4">
+      <source src="https://github.com/Mr0Miner/Finger-Joint-Detection-Application/blob/a9ec5518c113cef19a9a1fdad50cd6ce69ec8853/DATA_FOR_TEST/Tested%20Hand%20sample%20video/1_output_video.mp4" type="video/mp4">
       Your browser does not support the video tag.
    </video>
 
@@ -138,7 +138,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
    <h3 align="center">تست 2</h3>
    <video width="1280" height="720" controls>
-      <source src="DATA_FOR_TEST\Tested Hand sample video\2_output_video.mp4" type="video/mp4">
+      <source src="https://github.com/Mr0Miner/Finger-Joint-Detection-Application/blob/a9ec5518c113cef19a9a1fdad50cd6ce69ec8853/DATA_FOR_TEST/Tested%20Hand%20sample%20video/2_output_video.mp4" type="video/mp4">
       Your browser does not support the video tag.
    </video>
 
@@ -146,7 +146,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
    <h3 align="center">تست 3</h3>
    <video width="1280" height="720" controls>
-      <source src="DATA_FOR_TEST\Tested Hand sample video\3_output_video.mp4" type="video/mp4">
+      <source src="https://github.com/Mr0Miner/Finger-Joint-Detection-Application/blob/a9ec5518c113cef19a9a1fdad50cd6ce69ec8853/DATA_FOR_TEST/Tested%20Hand%20sample%20video/3_output_video.mp4" type="video/mp4">
       Your browser does not support the video tag.
    </video>
 </details>
