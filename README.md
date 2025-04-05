@@ -46,6 +46,32 @@ This application is designed to detect finger joints in real-time using a webcam
   - `save_image`: Saves the current frame as an image.
   - `detect_finger_joints`: Processes the video feed and detects finger joints.
 
+### Video sample
+<details>
+   <summary>More Information</summary>
+   <h3 align="center">Test 1</h3>
+   <video width="1280" height="720" controls>
+      <source src="DATA_FOR_TEST\Tested Hand sample video\1_output_video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+   </video>
+
+   <hr>
+
+   <h3 align="center">Test 2</h3>
+   <video width="1280" height="720" controls>
+      <source src="DATA_FOR_TEST\Tested Hand sample video\2_output_video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+   </video>
+
+   <hr>
+
+   <h3 align="center">Test 3</h3>
+   <video width="1280" height="720" controls>
+      <source src="DATA_FOR_TEST\Tested Hand sample video\3_output_video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+   </video>
+</details>
+
 ### Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
@@ -98,6 +124,32 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   - `stop_detection`: فرآیند تشخیص را متوقف می‌کند.
   - `save_image`: فریم فعلی را به عنوان تصویر ذخیره می‌کند.
   - `detect_finger_joints`: ویدیو را پردازش کرده و مفاصل انگشتان را تشخیص می‌دهد.
+
+### نمونه ویدیویی
+<details>
+   <summary>اطلاعات بیشتر</summary>
+   <h3 align="center">تست 1</h3>
+   <video width="1280" height="720" controls>
+      <source src="DATA_FOR_TEST\Tested Hand sample video\1_output_video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+   </video>
+
+   <hr>
+
+   <h3 align="center">تست 2</h3>
+   <video width="1280" height="720" controls>
+      <source src="DATA_FOR_TEST\Tested Hand sample video\2_output_video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+   </video>
+
+   <hr>
+
+   <h3 align="center">تست 3</h3>
+   <video width="1280" height="720" controls>
+      <source src="DATA_FOR_TEST\Tested Hand sample video\3_output_video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+   </video>
+</details>
 
 ### مشارکت
 مشارکت‌ها مورد استقبال هستند! لطفاً مخزن را فورک کرده و یک درخواست pull با تغییرات خود ارسال کنید.
